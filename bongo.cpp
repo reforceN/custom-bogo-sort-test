@@ -115,7 +115,7 @@ void bongoSortWithNewShuffle(vector<int>& array){
 
 int main(){
     srand(time(__null));
-    int size = 4;
+    int size = 7;
     size_t t = time(0);
     vector<int> arr = makeArray(size);
     //vector<int> arr = makeArrayRandom(size);
