@@ -1,3 +1,5 @@
+//sorry i thought the name was bongo sort not bogo LMFAO
+
 #include <iostream>
 #include <vector>
 #include <windows.h>
